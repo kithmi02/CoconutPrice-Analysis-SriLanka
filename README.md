@@ -5,7 +5,7 @@
 - Visualization (histogram and time series plot)
 - ARIMA modeling for forecasting future prices
 
----
+
 
 ### **Analysis of Each Result Plot**
 
@@ -20,7 +20,7 @@
   - The dataset has a **right-skewed** distribution, meaning coconut prices have increased significantly over time.
   - There is a notable peak at **Rs. 500+,** indicating that recent prices are consistently high.
 
----
+
 
 #### **2. Coconut Price Time Series Plot**
 ![image](https://github.com/user-attachments/assets/1a693c79-41bb-4722-9a4c-6b27790a43e8)
@@ -35,7 +35,7 @@
   - There are some **fluctuations**, but the overall pattern suggests inflation or increased demand.
   - This upward trend justifies using **ARIMA modeling for forecasting**.
 
----
+
 
 #### **3. ARIMA Forecasting (Future Price Prediction)**
 ![image](https://github.com/user-attachments/assets/4a410d94-7986-4aaa-91a3-6a697736447b)
@@ -49,7 +49,7 @@
   - The **confidence interval (blue shaded area)** indicates potential variations, but the general trend remains **upward**.
   - The ARIMA model effectively captures seasonality and long-term trends, making it a reliable forecasting tool.
 
----
+
 
 ### **Final Summary**
 - **Coconut prices have significantly increased over time.**
